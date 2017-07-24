@@ -2,7 +2,7 @@
 
 Like it says, it's a docker image built on alpine with curl installed.
 
-Available from docker hub as [gomeet/gomeet-curl](https://hub.docker.com/r/gomeet/gomeet-curl/)
+Available from docker hub as [gomeet/gomeet-curl](https://hub.docker.com/r/gomeet/gomeet-curl/).
 
 ## Usage
 
